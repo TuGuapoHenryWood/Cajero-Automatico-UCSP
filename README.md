@@ -21,32 +21,42 @@ Para finalizar, la variable, “Salir” si toma valor como True, imprimirá “
 Ejemplo de Funcion:
 
 C A J E R O   A U T O M A T I C O
+
 Ingrese su codigo de autentificacion: 1313
 
 USUARIO UCSP IDENTIFICADO
 
 
 RETIRAR [1]     VER SALDO [2]     SALIR [3]
+
 Ingrese Numero de Funcion: 1
 
 RETIRAR MONTO [1]     RETIRAR MONTO PERSONAL[2]
+
 Ingrese Numero de Funcion: 1
 
 S/.20
+
 S/.50
+
 S/.100
+
 S/.150
+
 S/.500
+
 CUANTO DESEA RETIRAR: 500
 
 SU SALDO ACTUAL ES: S/.9500
 
 RETIRAR [1]     VER SALDO [2]     SALIR [3]
+
 Ingrese Numero de Funcion: 2
 
 SU SALDO ACTUAL ES: S/.9500
 
 RETIRAR [1]     VER SALDO [2]     SALIR [3]
+
 Ingrese Numero de Funcion: 3
 
 GRACIAS POR SU ELECCION DE CAJERO
